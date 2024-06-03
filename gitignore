@@ -1,5 +1,10 @@
 # personal files
-.personnages
+
+/.idea/
+/personnages/
+/14.txt
+/15.txt
+/home/
 
 # IDE settings
 .idea/
@@ -14,3 +19,7 @@ tmp/
 # Log files and scripts generated during runtime
 *.log
 *.out
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+replay_pid*
