@@ -1,0 +1,16 @@
+# personal files
+.personnages
+
+# IDE settings
+.idea/
+.vscode/
+
+# Ignore environment variable files
+.env
+
+# Directory for scripts generated during runtime
+tmp/
+
+# Log files and scripts generated during runtime
+*.log
+*.out
