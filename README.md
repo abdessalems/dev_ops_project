@@ -43,10 +43,10 @@ Any contributions you make are greatly appreciated.
 
 #  Contact Information
 
-
-    Email: abdessalemsaa@gmail.com
-    LinkedIn: https://www.linkedin.com/in/saadaoui-abdessalem-10bb7018a/
-
+	Email: abdessalemsaa@gmail
+	LinkedIn : https://www.linkedin.com/in/saadaoui-abdessalem-10bb7018a/
+	
+	
 Thank you for participating in the dev_ops_project, and I look forward to seeing your contributions!
 
 
